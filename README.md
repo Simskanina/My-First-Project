@@ -1,3 +1,14 @@
+
+                                                                 
+NAME: SPINOCK KANINA
+SIN: 2503399635
+REPOSITORY LINK:
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
                                                                  ANSWERS FOR QUESTION 2 TO 6
 QUESTION 2: HTML ELEMENTS
 1. Five Most Challenging Elements
