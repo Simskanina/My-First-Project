@@ -2,7 +2,7 @@
                                                                  
 NAME: SPINOCK KANINA
 SIN: 2503399635
-REPOSITORY LINK:
+REPOSITORY LINK:https://github.com/Simskanina/My-First-Project.git
                                                                  
                                                                  
                                                                  
